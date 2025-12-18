@@ -1,5 +1,11 @@
 site_name: Портфоліо Загоруйко Денис
 
+theme:
+  name: material
+  language: uk
+  palette:
+    primary: indigo
+    accent: indigo
 nav: 
   - 'Головна': 'index.md'
   - 'Про мене': 'about.md'
